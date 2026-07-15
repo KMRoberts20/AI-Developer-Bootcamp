@@ -1,1 +1,3 @@
 Hello, Future AI Developer!
+
+Learning GitHub on Day 4.
