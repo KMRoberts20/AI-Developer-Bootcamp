@@ -1,3 +1,5 @@
 Hello, Future AI Developer!
 
 Learning GitHub on Day 4.
+
+Today I learned about Git branches
